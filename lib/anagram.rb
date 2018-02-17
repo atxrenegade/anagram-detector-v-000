@@ -1,4 +1,4 @@
-# Your code goes here!
+# REFACTORED
 require 'pry'
 class Anagram
   attr_accessor :word
